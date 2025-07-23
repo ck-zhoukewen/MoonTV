@@ -84,8 +84,7 @@
     },
     "1080ku": {
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
-      "name": "1080P库",
-      "detail": "https://api.1080zyku.com"
+      "name": "1080P库"
     },
     "ffly": {
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",

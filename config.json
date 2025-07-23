@@ -76,6 +76,53 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod/at/xml",
+      "name": "速播",
+       "detail": "https://subocaiji.com"
+    },
+    "1080ku": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "1080P库",
+      "detail": "https://api.1080zyku.com"
+    },
+    "ffly": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+      "name": "非凡伦理",
+      "detail": "http://cj.ffzyapi.com"
+    },
+     "woniu": {
+      "api": "http://woniudm.woniu.cyou:20000/api.php/provide/vod",
+      "name": "蜗牛动漫"
+    },
+    "piaohua": {
+      "api": "http://www.zzrhgg.com/api.php/provide/vod",
+      "name": "飘花影视"
+    },
+    "naixiang": {
+      "api": "https://naixxzy.com/api.php/provide/vod/at/xml",
+      "name": "奶香香",
+       "detail": "https://naixxzy.com"
+    },
+     "jpzaixian": {
+      "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/json",
+      "name": "日本在线",
+       "detail": "https://www.caiji07.com"
+    },
+    "aszaixian": {
+      "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/json",
+      "name": "亚洲在线",
+       "detail": "https://www.caiji01.com"
+    },
+    "madou": {
+      "api": "https://madouse.la/api.php/provide/vod",
+      "name": "麻豆"
+    },
+     "siwa": {
+      "api": "https://www.siwazyw.tv/api.php/provide/vod/at/xml",
+      "name": "丝袜",
+       "detail": "https://www.siwazyw.tv"
     }
   }
 }
